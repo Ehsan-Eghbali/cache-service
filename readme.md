@@ -36,13 +36,13 @@
 1. مخزن پروژه را کلون کنید یا فایل‌ها را دانلود کنید:
 
    ```bash
-   git clone https://github.com/username/in-memory-cache-microservice.git
+   git clone https://github.com/Ehsan-Eghbali/cache-service.git
    ```
 
 2. وارد دایرکتوری پروژه شوید:
 
    ```bash
-   cd in-memory-cache-microservice
+   cd cache-service
    ```
 
 3. وابستگی‌های پروژه را نصب کنید:
